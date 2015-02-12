@@ -1,4 +1,4 @@
 Probando
 ========
 
-Prueba con el GitHub y Eclipse y EGit
+Prueba con el GitHub
